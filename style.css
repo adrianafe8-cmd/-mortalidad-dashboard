@@ -1,0 +1,60 @@
+/* ======== TIPOGRAFÍA GENERAL ======== */
+body {
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    background-color: #f5f6fa;
+    color: #2d3436;
+}
+
+/* ======== TITULOS ======== */
+h1, h2, h3, h4 {
+    font-weight: 600;
+    color: #2d3436;
+}
+
+/* ======== TARJETAS (KPIs) ======== */
+.card {
+    border-radius: 18px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;
+    border: none !important;
+    background: white;
+}
+
+.card h4 {
+    font-size: 18px;
+    color: #636e72;
+}
+
+.card h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #2d3436;
+}
+
+/* ======== GRAFICOS ======== */
+.js-plotly-plot .plotly .main-svg {
+    border-radius: 18px;
+}
+
+.graph-container {
+    padding: 20px;
+    background: white;
+    border-radius: 18px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    margin-bottom: 25px;
+}
+
+/* ======== TABLA ======== */
+.dash-table-container .dash-spreadsheet-container {
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.dash-table-container table {
+    font-size: 15px;
+}
+
+/* ======== ESPACIADO ======== */
+.container {
+    padding-top: 20px;
+}
