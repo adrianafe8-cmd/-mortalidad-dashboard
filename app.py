@@ -1,6 +1,5 @@
 # app.py — Dashboard Mortalidad Colombia 2019 con filtros interactivos y callbacks
 
-```python
 import pandas as pd
 from dash import Dash, html, dcc, dash_table, Input, Output
 import plotly.express as px
