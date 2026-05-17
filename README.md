@@ -84,26 +84,32 @@ Abrir navegador
 http://127.0.0.1:8050
 Visualizaciones y análisis de resultados
 1. Distribución de muertes por departamento
+![alt text](<mapa interactivo.png>)
 
 El mapa interactivo permite visualizar la concentración de muertes por departamento en Colombia. Se evidencia una mayor concentración en departamentos con alta densidad poblacional como Bogotá, Antioquia y Valle del Cauca.
 
 2. Total de muertes por mes
+![alt text](mxmes.png)
 
 El gráfico de líneas permite identificar la evolución temporal de la mortalidad durante el año 2019. Se observaron variaciones mensuales que permiten identificar periodos críticos.
 
 3. Mortalidad por sexo y departamento
+![alt text](mxsxdep.png)
 
 El gráfico de barras apiladas muestra la distribución de muertes según sexo y departamento, permitiendo comparar diferencias entre regiones.
 
 4. Distribución por grupos de edad
+![alt text](distri_grp_edad.png)
 
 El histograma evidencia una mayor concentración de mortalidad en grupos etarios de adultez intermedia y vejez.
 
 5. Top ciudades con homicidios
+![alt text](top_homicidios.png)
 
 El gráfico permite identificar las ciudades con mayor cantidad de homicidios registrados durante el año analizado.
 
 6. Tabla de principales causas de muerte
+![alt text](image-1.png)
 
 La tabla dinámica permite explorar las principales causas de muerte registradas en la base de datos, facilitando el análisis epidemiológico.
 
