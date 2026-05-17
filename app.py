@@ -373,13 +373,6 @@ total_homicidios = len(homicidios)
 mes_critico = muertes_mes.sort_values(by="TOTAL", ascending=False).iloc[0]["MES"]
 
 # =====================================================
-# APP DASH
-# =====================================================
-
-app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-server = app.server
-
-# =====================================================
 # LAYOUT 2B
 # =====================================================
 
